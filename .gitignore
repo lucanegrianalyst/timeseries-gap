@@ -34,3 +34,5 @@ dist/
 # IDE
 .vscode/
 .idea/
+# Benchmark results (machine-specific)
+benchmarks/results*.json
